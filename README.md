@@ -1,6 +1,8 @@
 
 # Profit Analysis Power BI Dashboard: Global Sales & Profit Intelligence 📊🚗
 
+![Full Screen Dashboard Overview](dashboard_screenshots/00_full_screen_executive_dashboard.png)
+
 An interactive, end-to-end Power BI dashboard built to analyze global sales performance, profit margins, order volume, and top-performing products from **2003 to 2005**.
 
 ---
@@ -31,7 +33,7 @@ An interactive, end-to-end Power BI dashboard built to analyze global sales perf
 
 ## 📸 Dashboard Previews
 
-### 1. Executive Dashboard Overview
+### 1. Executive Dashboard Overview (Workspace View)
 ![Dashboard Overview](dashboard_screenshots/01_classic_models_sales_dashboard_overview.jpeg)
 
 ### 2. Order Year Breakdown (2005 Analysis)
