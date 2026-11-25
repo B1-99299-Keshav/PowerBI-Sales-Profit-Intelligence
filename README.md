@@ -32,22 +32,22 @@ An interactive, end-to-end Power BI dashboard built to analyze global sales perf
 ## 📸 Dashboard Previews
 
 ### 1. Executive Dashboard Overview
-![Dashboard Overview](dashboard_screenshots/01_classic_models_sales_dashboard_overview.png)
+![Dashboard Overview](dashboard_screenshots/01_classic_models_sales_dashboard_overview.jpeg)
 
-### 2. Order Year Breakdown (2005 Analysis)
-![Order Year 2005 Breakdown](dashboard_screenshots/02_order_year_2005_sales_breakdown.png)
+### 2. Custom Tooltip: Top Products Overview
+![Custom Tooltip Overview](dashboard_screenshots/02_custom_tooltip_filtered_sales%20(2).jpeg)
 
-### 3. Custom Tooltip: Top Products Overview
-![Custom Tooltip Overview](dashboard_screenshots/03_custom_tooltip_top_products_overview.png)
+### 3. Custom Tooltip: Filtered Sales View
+![Custom Tooltip Filtered](dashboard_screenshots/03_custom_tooltip_filtered_sales.jpeg)
 
-### 4. Custom Tooltip: Filtered Sales View
-![Custom Tooltip Filtered](dashboard_screenshots/05_custom_tooltip_filtered_sales.png)
+### 4. Order Year Breakdown (2005 Analysis)
+![Order Year 2005 Breakdown](dashboard_screenshots/04_order_year_tooltip_2005_breakdown.jpeg)
 
 ### 5. Product Cross-Filtering (1992 Ferrari 360 Spider Red)
-![Product Cross Filtering](dashboard_screenshots/06_product_cross_filtering_ferrari_360.png)
+![Product Cross Filtering](dashboard_screenshots/05_product_cross_filtering_ferrari_360.jpeg)
 
 ### 6. Report Page Tooltip Design (`TP 1`)
-![Tooltip Page Design](dashboard_screenshots/04_report_page_tooltip_design.png)
+![Tooltip Page Design](dashboard_screenshots/06_classic_models_sales_dashboard_overview.jpeg)
 
 ---
 
